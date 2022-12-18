@@ -4,6 +4,18 @@
     //}
     //console.log(functionName())
 
+
+    for (var i=0;i<10;i++){
+        if(i==3)break;
+        console.log('Equals :'+i)
+    }
+
+    let aa=1
+    while (aa<10){
+        console.log('In while:'+aa)
+        aa++
+    }
+
 let x=10+3
 
 function addNumbers(a,b){

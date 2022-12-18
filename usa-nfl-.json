@@ -1,0 +1,86 @@
+{
+	"NFL East": {
+		"federation": "AFC",
+		"teams": [
+            {
+			"teamName": "Buffalo Bills",
+			"stadium": "Highmark Stadium",
+			"city": "Orchard Park NY",
+			"QB": "Josh Allen",
+			"WR": "Khalil Shakir",
+			"TE": "Quintin Morris"
+			},
+ 			{
+			"teamName": "New England Patriots",
+			"stadium": "Gillette Stadium",
+			"city": "Foxborough MA",
+			"QB": "Mac Jones",
+			"WR": "DeVante Parker",
+			"TE": "Hunter Henry"
+			}
+        ]
+	},
+	"NFL North": {
+		"federation": "NFC",
+		"teams": [
+            {
+			"teamName": "Green Bay Packers",
+			"stadium": "Lambeau Field",
+			"city": "Green Bay WI",
+			"QB": "Aaron Rodgers",
+			"WR": "Christian Watson",
+			"TE": "Tyler Davis"
+			},
+ 			{
+			"teamName": "Minnesota Vikings",
+			"stadium": "US Bank Stadium",
+			"city": "Minneapolis MN",
+			"QB": "Kirk Cousins",
+			"WR": "Jalen Nailor",
+			"TE": "TJ Hockenson"
+			}
+        ]
+	},
+	"NFL South": {
+		"federation": "AFC",
+		"teams": [
+            {
+			"teamName": "Houston Texans",
+			"stadium": "NRG Stadium",
+			"city": "Houston TX",
+			"QB": "Kyle Allen",
+			"WR": "Amari Rodgers",
+			"TE": "Jordan Akins"
+			},
+ 			{
+			"teamName": "Tennessee Titans",
+			"stadium": "Nissan Stadium",
+			"city": "Nashville TN",
+			"QB": "Ryan Tannehill",
+			"WR": "CJ Board",
+			"TE": "Austin Hooper"
+			}
+        ]
+	},
+	"NFL West": {
+		"federation": "NFC",
+		"teams": [
+            {
+			"teamName": "Los Angeles Rams",
+			"stadium": "Los Angeles Memorial Coliseum",
+			"city": "Los Angeles CA",
+			"QB": "Baker Mayfield",
+			"WR": "Van Jefferson",
+			"TE": "Tyler Higbee"
+			},
+ 			{
+			"teamName": "Seattle Seahawks",
+			"stadium": "CenturyLink Field",
+			"city": "Seattle WA",
+			"QB": "Geno Smith",
+			"WR": "Dareke Young",
+			"TE": "Colby Parkinson"
+			}
+        ]
+	}
+}
